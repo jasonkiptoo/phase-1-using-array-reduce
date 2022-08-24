@@ -10,4 +10,5 @@ return element+total;
 }
 );
 
-console.log(totalBatteries)
+
+console.log(`The total batteries found is : ${totalBatteries}`)
